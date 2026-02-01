@@ -38,11 +38,6 @@
 
 ---
 
-## 📈 Calendrier de commits 
-![Contributions chart](https://ghchart.rshah.org/Moussa018)
-
----
-
-## 📬 Me Contacter
+## 📬Contact
 - **Profil:** Étudiant passionné par l'automatisation et l'intelligence artificielle appliquée.
 - **Focus actuel:** Perfectionnement sur Kubernetes et l'orchestration de modèles LLM.
