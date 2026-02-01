@@ -38,26 +38,6 @@
 
 ---
 
-## 📊 Performance Globale
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Moussa018&show_icons=true&theme=radical&hide_border=false" width="45%" alt="Stats Globales" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moussa018&layout=compact&theme=radical&hide_border=false" width="45%" alt="Top Langages" />
-</p>
-
----
-
-## 🔎 Mes dépôts (affichage dynamique)
-Les dépôts listés ci-dessous peuvent être remplis automatiquement par une action GitHub (voir section "Automatisation" plus bas) ou en remplaçant manuellement les références.
-
-<!-- REPOS_START -->
-- [Infinite-Sorcerer-RAG](https://github.com/Moussa018/Infinite-Sorcerer-RAG) - Système RAG & ingestion de données
-- [Rust-Cloud-Tooling](https://github.com/Moussa018/Rust-Cloud-Tooling) - Outils CLI Cloud en Rust
-- [Java-Cloud-Native-Ecosystem](https://github.com/Moussa018/Java-Cloud-Native-Ecosystem) - Microservices + CI/CD
-<!-- REPOS_END -->
-
----
-
 ## 📈 Calendrier de commits 
 ![Contributions chart](https://ghchart.rshah.org/Moussa018)
 
