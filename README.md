@@ -6,13 +6,13 @@
 ## 📈 Statistiques & Activité (Live)
 
 ### 🐍 Mon Parcours de Contribution
-![Snake](https://raw.githubusercontent.com/TON_PSEUDO/TON_PSEUDO/output/github-contribution-grid-snake.svg)
+![Snake](https://raw.githubusercontent.com/Moussa018/Moussa018/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 🏗️ Projets en Cours (Actifs)
 
-### 🔮 [Infinite-Sorcerer-RAG](https://github.com/TON_PSEUDO/Infinite-Sorcerer-RAG)
+### 🔮 [Infinite-Sorcerer-RAG](https://github.com/Moussa018/Infinite-Sorcerer-RAG)
 **Système RAG (Retrieval-Augmented Generation) sur l'univers de Jujutsu Kaisen.**
 - **Stack:** Python, FastAPI, Ollama (Llama 3/Mistral), ChromaDB, Playwright.
 - **Détails:** Mise en place d'un pipeline complet d'ingestion de données (web scraping avec Playwright), vectorisation et stockage dans une DB de vecteurs pour fournir un contexte précis à l'IA.
@@ -21,11 +21,12 @@
 **Projet d'intégration Full-Stack & DevOps.**
 - **Stack:** Java 17+, Spring Boot, Kafka, React.
 - **Objectif:** Créer une architecture microservices résiliente utilisant Kafka pour la messagerie asynchrone et déployée via des pipelines CI/CD.
-- 
-### 🦀 [Rust-Cloud-Tooling](https://github.com/TON_PSEUDO/Rust-Cloud-Tooling)
+
+### 🦀 [Rust-Cloud-Tooling](https://github.com/Moussa018/Rust-Cloud-Tooling)
 **Développement d'outils CLI haute performance pour l'automatisation Cloud.**
-- **Stack:** Rust (Cargo), Serde, Tokyo (Async runtime).
+- **Stack:** Rust (Cargo), Serde, Tokio (Async runtime).
 - **Détails:** Création d'utilitaires système optimisés pour la gestion des logs et le monitoring de conteneurs Docker, garantissant une empreinte mémoire minimale par rapport au Python ou Java.
+
 ---
 
 ## 🛠️ Stack Technique & Outils
@@ -45,16 +46,31 @@
 ---
 
 ## 📊 Performance Globale
----
-
-## 📊 Performance Globale
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=radical&hide_border=false" width="45%" alt="Stats Globales" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO&layout=compact&theme=radical&hide_border=false" width="45%" alt="Top Langages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Moussa018&show_icons=true&theme=radical&hide_border=false" width="45%" alt="Stats Globales" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moussa018&layout=compact&theme=radical&hide_border=false" width="45%" alt="Top Langages" />
 </p>
 
 ---
+
+## 🔎 Mes dépôts (affichage dynamique)
+Les dépôts listés ci-dessous peuvent être remplis automatiquement par une action GitHub (voir section "Automatisation" plus bas) ou en remplaçant manuellement les références.
+
+<!-- REPOS_START -->
+- [Infinite-Sorcerer-RAG](https://github.com/Moussa018/Infinite-Sorcerer-RAG) - Système RAG & ingestion de données
+- [Rust-Cloud-Tooling](https://github.com/Moussa018/Rust-Cloud-Tooling) - Outils CLI Cloud en Rust
+- [Java-Cloud-Native-Ecosystem](https://github.com/Moussa018/Java-Cloud-Native-Ecosystem) - Microservices + CI/CD
+<!-- REPOS_END -->
+
+---
+
+## 📈 Calendrier de commits (coloré)
+Vue colorée de ton activité GitHub (heatmap) :
+![Contributions chart](https://ghchart.rshah.org/Moussa018)
+
+Tu peux aussi utiliser la version "snake" (animation) (générée par github-contribution-grid-snake si tu as le fichier SVG dans /output) :
+![Snake](https://raw.githubusercontent.com/Moussa018/Moussa018/output/github-contribution-grid-snake.svg)
 
 ---
 
