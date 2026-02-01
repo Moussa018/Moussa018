@@ -1,55 +1,40 @@
-# 👋 Salut, moi c'est [Ton Nom] !
+# 👋 Salut, moi c'est Mohammed Nour Moussa
+### 🚀 Software, Data, DevOps & Cloud Student
 
-### 🚀 En plein apprentissage de Rust
-*Actuellement, je travaille sur un convertisseur CSV vers Parquet pour comparer les performances avec Python.*
-
----
-
-## 📊 Mes Statistiques GitHub
-![Stats de [Ton Nom]](https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=radical)
-
-## 🛠 Langages et Outils
-![Rust](https://img.shields.io/badge/rust-%23E32F26.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+Un passionné d'architecture cloud et d'ingénierie des données, naviguant entre le développement logiciel et l'automatisation.
 
 ---
 
-## 🔄 Activité Dynamique
-Last updated: ```
+## 🛠 Mon Arsenal Technique
+
+| Catégorie | Outils & Technologies |
+| :--- | :--- |
+| **Langages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| **Data & AI** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) |
+| **DevOps & Cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) |
 
 ---
 
-## 2. Comment la rendre "Dynamique" ?
-Pour que ta bio change toute seule (par exemple pour afficher l'heure, la météo ou tes derniers commits), voici comment faire :
+## 📈 Statistiques Dynamiques (Temps Réel)
 
-### Étape A : Créer le script de mise à jour
-Dans ton dépôt, crée un dossier `.github/workflows/` et à l'intérieur, un fichier nommé `update_bio.yml`.
+Voici mes activités suivies automatiquement par GitHub :
 
-### Étape B : Ajouter le code magique
-Copie ce code dans le fichier `.github/workflows/update_bio.yml`. Ce script va écrire la date du jour automatiquement dans ton README toutes les 24 heures.
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=radical&count_private=true" alt="Stats de Mohammed Nour" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO&layout=compact&theme=radical" alt="Langages les plus utilisés" />
+</p>
 
-```yaml
-name: Update README
+---
 
-on:
-  schedule:
-    - cron: '0 0 * * *' # S'exécute tous les jours à minuit
-  workflow_dispatch: # Permet de le lancer manuellement
+## 🔭 Sur quoi je travaille en ce moment
+* 🧪 Perfectionnement sur les services **AWS Lambda & S3**.
+* 🦀 Apprentissage de **Rust** pour optimiser mes pipelines de données (CSV to Parquet).
+* 🤖 Entraînement de modèles de Deep Learning avec **PyTorch**.
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - name: Update date
-        run: |
-          DATE=$(date +'%Y-%m-%d %H:%M:%S')
-          sed -i "s//$DATE/" README.md
-      - name: Commit changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add README.md
-          git commit -m "Update dynamic content" || exit 0
-          git push
+---
+
+## 📫 Me contacter
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TON_LINKEDIN)
+
+> *"L'automatisation n'est pas juste un gain de temps, c'est une philosophie de vie."*
