@@ -2,13 +2,22 @@
 ### Software | Data | DevOps | Cloud Engineer Student
 
 ---
+## 🛠️ Stack Technique & Outils
 
-## 📈 Statistiques & Activité (Live)
+### 💻 Développement & Data
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
-### 🐍 Mon Parcours de Contribution
-![Snake](https://raw.githubusercontent.com/Moussa018/Moussa018/output/github-contribution-grid-snake.svg)
+### ☁️ DevOps & Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ---
+
 
 ## 🏗️ Projets en Cours (Actifs)
 
@@ -26,22 +35,6 @@
 **Développement d'outils CLI haute performance pour l'automatisation Cloud.**
 - **Stack:** Rust (Cargo), Serde, Tokio (Async runtime).
 - **Détails:** Création d'utilitaires système optimisés pour la gestion des logs et le monitoring de conteneurs Docker, garantissant une empreinte mémoire minimale par rapport au Python ou Java.
-
----
-
-## 🛠️ Stack Technique & Outils
-
-### 💻 Développement & Data
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-
-### ☁️ DevOps & Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ---
 
@@ -65,12 +58,8 @@ Les dépôts listés ci-dessous peuvent être remplis automatiquement par une ac
 
 ---
 
-## 📈 Calendrier de commits (coloré)
-Vue colorée de ton activité GitHub (heatmap) :
+## 📈 Calendrier de commits 
 ![Contributions chart](https://ghchart.rshah.org/Moussa018)
-
-Tu peux aussi utiliser la version "snake" (animation) (générée par github-contribution-grid-snake si tu as le fichier SVG dans /output) :
-![Snake](https://raw.githubusercontent.com/Moussa018/Moussa018/output/github-contribution-grid-snake.svg)
 
 ---
 
