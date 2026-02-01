@@ -45,10 +45,16 @@
 ---
 
 ## 📊 Performance Globale
+---
+
+## 📊 Performance Globale
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=radical&count_private=true" alt="Stats Globales" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO&layout=compact&theme=radical" alt="Top Langages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=radical&hide_border=false" width="45%" alt="Stats Globales" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO&layout=compact&theme=radical&hide_border=false" width="45%" alt="Top Langages" />
 </p>
+
+---
 
 ---
 
