@@ -41,7 +41,7 @@ I follow a **"build-to-learn"** philosophy, spending my time engineering hands-o
 
 ---
 
-## Contact & Focus
+## Focus
 - **Current Focus:** Mastery of Kubernetes orchestration and strengthening Cloud Infrastructure Architecture.
 ---
 
