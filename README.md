@@ -1,5 +1,5 @@
 # 🚀 Mohammed Nour Moussa
-### Software | Data | DevOps | Cloud Engineer Student
+### Software | DevOps | Cloud Engineer Student
 
 ---
 ## 🛠️ Stack Technique & Outils
