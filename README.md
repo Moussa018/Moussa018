@@ -1,43 +1,58 @@
-# 🚀 Mohammed Nour Moussa
-### Software | DevOps | Cloud Engineer Student
+# Mohammed Nour Moussa
+### **Software Engineering Student @ ENSIAS | DevOps & Cloud Architecture**
 
 ---
-## 🛠️ Stack Technique & Outils
 
-### 💻 Développement & Data
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+## About Me
+As a Software Engineering student at **ENSIAS** (Casablanca/Rabat, Morocco), I am dedicated to bridging the gap between robust software development and scalable cloud infrastructure. 
+
+I follow a **"build-to-learn"** philosophy, spending my time engineering hands-on projects—from microservices and Kafka pipelines to RAG systems and automated cloud deployments. I am constantly evolving, with a current focus on mastering **Kubernetes** and **MLOps** pipelines.
+
+---
+
+## Tech Stack & Tools
+
+### **Core Development & AI**
+![Java](https://img.shields.io/badge/Java_17+-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-### ☁️ DevOps & Cloud
+### **Cloud & DevOps**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ---
 
+## Featured Projects
 
-## 🏗️ Projets en Cours (Actifs)
+### [ServerlessPriceWatch](https://github.com/Moussa018/ServerlessPriceWatch)
+**Cloud-Native Price Tracking via Infrastructure as Code.**
+- **Stack:** Python, AWS Lambda, DynamoDB, Terraform, LocalStack.
+- **Impact:** My initiation into **IaC**; managing resource lifecycles and state for a cost-effective, serverless scraping solution.
 
-### 🔮 [Infinite-Sorcerer-RAG](https://github.com/Moussa018/Infinite-Sorcerer-RAG)
-**Système RAG (Retrieval-Augmented Generation) sur l'univers de Jujutsu Kaisen.**
-- **Stack:** Python, FastAPI, Ollama (Llama 3/Mistral), ChromaDB, Playwright.
-- **Détails:** Mise en place d'un pipeline complet d'ingestion de données (web scraping avec Playwright), vectorisation et stockage dans une DB de vecteurs pour fournir un contexte précis à l'IA.
+### Java Cloud-Native Ecosystem
+**Resilient Microservices Architecture.**
+- **Stack:** Java 17+, Spring Boot, Kafka, React, PostgreSQL.
+- **Impact:** Designed a distributed system utilizing **Kafka** for asynchronous messaging and automated CI/CD deployment.
 
-### ⚙️ Java Cloud-Native Ecosystem
-**Projet d'intégration Full-Stack & DevOps.**
-- **Stack:** Java 17+, Spring Boot, Kafka, React.
-- **Objectif:** Créer une architecture microservices résiliente utilisant Kafka pour la messagerie asynchrone et déployée via des pipelines CI/CD.
-
-### 🦀 [Rust-Cloud-Tooling](https://github.com/Moussa018/Rust-Cloud-Tooling)
-**Développement d'outils CLI haute performance pour l'automatisation Cloud.**
+### [Rust-Cloud-Tooling](https://github.com/Moussa018/Rust-Cloud-Tooling)
+**High-Performance CLI Ecosystem.**
 - **Stack:** Rust (Cargo), Serde, Tokio (Async runtime).
-- **Détails:** Création d'utilitaires système optimisés pour la gestion des logs et le monitoring de conteneurs Docker, garantissant une empreinte mémoire minimale par rapport au Python ou Java.
+- **Impact:** Developed system utilities optimized for log processing and container monitoring with a minimal memory footprint.
 
 ---
 
-## 📬Contact
-- **Profil:** Étudiant passionné par l'automatisation et l'intelligence artificielle appliquée.
-- **Focus actuel:** Perfectionnement sur Kubernetes et l'orchestration de modèles LLM.
+## Contact & Focus
+- **Current Focus:** Mastery of Kubernetes orchestration and strengthening Cloud Infrastructure Architecture.
+---
+
+<div align="right">
+  <i>"Software architecture is the art of organizing complexity."</i>
+</div>
