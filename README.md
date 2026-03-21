@@ -2,8 +2,6 @@
 ### **Software Engineering Student @ ENSIAS | DevOps & Cloud Architecture**
 
 ---
-
-## About Me
 As a Software Engineering student at **ENSIAS** (Casablanca/Rabat, Morocco), I am dedicated to bridging the gap between robust software development and scalable cloud infrastructure. 
 
 I follow a **"build-to-learn"** philosophy, spending my time engineering hands-on projects—from microservices and Kafka pipelines to RAG systems and automated cloud deployments. I am constantly evolving, with a current focus on mastering **Kubernetes** and **MLOps** pipelines.
