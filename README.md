@@ -41,11 +41,6 @@ I follow a **"build-to-learn"** philosophy, spending my time engineering hands-o
 - **Stack:** Java 17+, Spring Boot, Kafka, React, PostgreSQL.
 - **Impact:** Designed a distributed system utilizing **Kafka** for asynchronous messaging and automated CI/CD deployment.
 
-### [Rust-Cloud-Tooling](https://github.com/Moussa018/Rust-Cloud-Tooling)
-**High-Performance CLI Ecosystem.**
-- **Stack:** Rust (Cargo), Serde, Tokio (Async runtime).
-- **Impact:** Developed system utilities optimized for log processing and container monitoring with a minimal memory footprint.
-
 ---
 
 ## Contact & Focus
