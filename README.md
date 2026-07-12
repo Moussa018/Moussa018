@@ -50,22 +50,20 @@ I follow a **build-to-learn** philosophy — engineering hands-on projects that 
 <tr>
 <td width="50%" valign="top">
 
-<h3>ServerlessPriceWatch</h3>
+<h3>Deep Learning & AI Systems</h3>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white"/> <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white"/> <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 
-Cloud-native price tracking built entirely with Infrastructure as Code. My initiation into IaC — managing resource lifecycles and state for a cost-effective, serverless scraping solution.
-
-<a href="https://github.com/Moussa018/ServerlessPriceWatch"><img src="https://img.shields.io/badge/EXPLORE_REPO-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/></a>
+I'm drawn to how neural networks are designed, trained, and pushed into production — from model architecture and fine-tuning to building RAG pipelines that connect LLMs with real data sources. Still exploring, still experimenting.
 
 </td>
 <td width="50%" valign="top">
 
-<h3>Java Cloud-Native Ecosystem</h3>
+<h3>Cloud Infrastructure & Automation</h3>
 
-<img src="https://img.shields.io/badge/Java_17+-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/> <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
 
-A resilient distributed microservices architecture using Kafka for asynchronous messaging, deployed through a fully automated CI/CD pipeline.
+What interests me most in infrastructure is designing systems that scale without breaking — Infrastructure as Code, container orchestration, and CI/CD pipelines that make deployments boring and predictable, the way they should be.
 
 </td>
 </tr>
