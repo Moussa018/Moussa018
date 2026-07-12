@@ -5,32 +5,32 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=60&lines=Building+microservices+%26+Kafka+pipelines;Engineering+RAG+systems+%26+ML+workflows;Automating+cloud+deployments+at+scale" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=60&lines=Building+microservices+%26+Kafka+pipelines;Training+deep+learning+%26+RAG+systems;Automating+cloud+deployments+at+scale" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/GITHUB-Moussa018-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/LOCATION-Casablanca%20%2F%20Rabat-FF6B6B?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-<img src="https://img.shields.io/badge/FOCUS-Kubernetes%20%26%20MLOps-00D9A5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/FOCUS-Deep%20Learning%20%26%20MLOps-00D9A5?style=for-the-badge&logo=pytorch&logoColor=white"/>
 
 </div>
 
 <br/>
 
-## Profile
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=65&section=header&text=PROFILE&fontSize=28&fontColor=FFFFFF&animation=fadeIn&fontAlignY=50" width="100%"/>
 
-I follow a **build-to-learn** philosophy — engineering hands-on projects that bridge robust software development and scalable cloud infrastructure, from microservices and Kafka pipelines to RAG systems and automated cloud deployments. Currently deepening my mastery of **Kubernetes orchestration** and **MLOps pipelines**.
+I follow a **build-to-learn** philosophy — engineering hands-on projects that bridge robust software development and scalable cloud infrastructure, from microservices and Kafka pipelines to RAG systems and deep learning models. Currently deepening my expertise in **deep learning architectures** and **MLOps pipelines**.
 
 <br/>
 
-## Tech Stack
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=11&height=65&section=header&text=TECH%20STACK&fontSize=28&fontColor=FFFFFF&animation=fadeIn&fontAlignY=50" width="100%"/>
 
 <div align="center">
 
 **Core Development & AI**
 
-<img src="https://skillicons.dev/icons?i=java,py,spring,fastapi,flask,pytorch,sklearn&theme=dark" height="55"/>
+<img src="https://skillicons.dev/icons?i=java,py,spring,fastapi,flask,pytorch,sklearn,tensorflow&theme=dark" height="55"/>
 
 <br/><br/>
 
@@ -42,7 +42,7 @@ I follow a **build-to-learn** philosophy — engineering hands-on projects that 
 
 <br/>
 
-## Featured Projects
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20&height=65&section=header&text=FEATURED%20PROJECTS&fontSize=28&fontColor=FFFFFF&animation=fadeIn&fontAlignY=50" width="100%"/>
 
 <table width="100%">
 <tr>
@@ -71,7 +71,7 @@ A resilient distributed microservices architecture using Kafka for asynchronous 
 
 <br/>
 
-## GitHub Analytics
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2&height=65&section=header&text=GITHUB%20ANALYTICS&fontSize=28&fontColor=FFFFFF&animation=fadeIn&fontAlignY=50" width="100%"/>
 
 <div align="center">
 
@@ -86,7 +86,7 @@ A resilient distributed microservices architecture using Kafka for asynchronous 
 
 <br/>
 
-## Trophies
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=15&height=65&section=header&text=TROPHIES&fontSize=28&fontColor=FFFFFF&animation=fadeIn&fontAlignY=50" width="100%"/>
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Moussa018&theme=radical&no-frame=true&row=1&column=6"/>
@@ -94,7 +94,7 @@ A resilient distributed microservices architecture using Kafka for asynchronous 
 
 <br/>
 
-## Contribution Activity
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24&height=65&section=header&text=CONTRIBUTION%20ACTIVITY&fontSize=28&fontColor=FFFFFF&animation=fadeIn&fontAlignY=50" width="100%"/>
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Moussa018&theme=react-dark&hide_border=true&area=true"/>
@@ -102,13 +102,13 @@ A resilient distributed microservices architecture using Kafka for asynchronous 
 
 <br/>
 
-## Current Focus
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=9&height=65&section=header&text=CURRENT%20FOCUS&fontSize=28&fontColor=FFFFFF&animation=fadeIn&fontAlignY=50" width="100%"/>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Kubernetes_Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cloud_Infrastructure_Architecture-FF6B6B?style=for-the-badge&logo=cloudsmith&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deep_Learning_Architectures-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/MLOps_Pipelines-00D9A5?style=for-the-badge&logo=mlflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloud_Infrastructure_Architecture-FF6B6B?style=for-the-badge&logo=cloudsmith&logoColor=white"/>
 
 </div>
 
