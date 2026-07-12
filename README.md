@@ -18,7 +18,15 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=11&height=65&section=header&text=TECH%20STACK&fontSize=28&fontColor=FFFFFF&animation=fadeIn&fontAlignY=50" width="100%"/>
+<div align="center">
+
+I follow a **build-to-learn** philosophy — engineering hands-on projects that bridge robust software development and scalable cloud infrastructure, from microservices and Kafka pipelines to RAG systems and deep learning models. Currently deepening my expertise in **deep learning architectures** and **MLOps pipelines**.
+
+</div>
+
+<br/>
+
+## Tech Stack
 
 <div align="center">
 
@@ -36,7 +44,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20&height=65&section=header&text=WHAT%20INTERESTS%20ME&fontSize=26&fontColor=FFFFFF&animation=fadeIn&fontAlignY=50" width="100%"/>
+## What Interests Me
 
 <table width="100%">
 <tr>
@@ -65,7 +73,7 @@ A resilient distributed microservices architecture using Kafka for asynchronous 
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=9&height=65&section=header&text=CURRENT%20FOCUS&fontSize=28&fontColor=FFFFFF&animation=fadeIn&fontAlignY=50" width="100%"/>
+## Current Focus
 
 <div align="center">
 
