@@ -85,7 +85,6 @@ What interests me most in infrastructure is designing systems that scale without
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Moussa018&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS"/>
 
 <br/><br/>
 
