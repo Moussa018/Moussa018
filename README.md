@@ -38,7 +38,7 @@ I follow a **build-to-learn** philosophy — engineering hands-on projects that 
 
 **Cloud & DevOps**
 
-<img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,kafka,rabbitmq,redis,nginx,githubactions,grafana,prometheus&theme=dark" height="55"/>
+<img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,kafka,rabbitmq,redis,nginx,githubactions&theme=dark" height="55"/>
 
 </div>
 
