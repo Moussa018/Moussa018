@@ -4,7 +4,7 @@
 
 software engineering student @ ENSIAS, messing around with AI on the side
 
-[![GitHub](https://img.shields.io/badge/GitHub-Moussa018-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Moussa018)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed_Nour_Moussa-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-nour-moussa-425735303/)
 [![Location](https://img.shields.io/badge/Location-Casablanca%2FRabat-333333?style=flat-square&logo=googlemaps&logoColor=white)](#)
 
 </div>
