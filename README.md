@@ -18,7 +18,7 @@ I build backend stuff that (mostly) doesn't crash, and poke at RAG pipelines and
 ## Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,py,spring,fastapi,pytorch,tensorflow&theme=dark" height="45"/>
+<img src="https://skillicons.dev/icons?i=java,py,c,c++,spring,fastapi,pytorch,tensorflow&theme=dark" height="45"/>
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,kafka,terraform&theme=dark" height="45"/>
 </div>
