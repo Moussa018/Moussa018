@@ -2,7 +2,7 @@
 
 # Mohammed Nour Moussa
 
-Software Engineer @ ENSIAS · Interested in AI
+software engineering student @ ENSIAS, messing around with AI on the side
 
 [![GitHub](https://img.shields.io/badge/GitHub-Moussa018-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Moussa018)
 [![Location](https://img.shields.io/badge/Location-Casablanca%2FRabat-333333?style=flat-square&logo=googlemaps&logoColor=white)](#)
@@ -11,7 +11,7 @@ Software Engineer @ ENSIAS · Interested in AI
 
 <br/>
 
-I build backend systems and explore applied AI — from microservices and event-driven pipelines to RAG systems and model fine-tuning.
+I build backend stuff that (mostly) doesn't crash, and poke at RAG pipelines and fine-tuning when I want to feel smart.
 
 <br/>
 
@@ -27,12 +27,12 @@ I build backend systems and explore applied AI — from microservices and event-
 
 ## Focus
 
-- **Backend & Systems** — Java/Spring, Python/FastAPI, Kafka-based pipelines
-- **AI & ML** — deep learning architectures, RAG pipelines, model fine-tuning
-- **Infra** — Docker, Kubernetes, Terraform, AWS
+- **Backend & Systems** — microservices, event-driven architecture, APIs that don't lie to you
+- **AI & ML** — deep learning architectures, RAG pipelines, model fine-tuning — the fun end of the stack
+- **Infra** — containers, orchestration, CI/CD, infra as code
 
 <br/>
 
 <div align="center">
-<sub>Building to learn.</sub>
+<sub>Just chilling</sub>
 </div>
