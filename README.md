@@ -1,4 +1,12 @@
 <div align="center">
+  <sub> Sre Engineer &nbsp;|&nbsp; AI Tinkerer</sub>
+  <br/><br/>
+  <img src="assets/banner.gif" alt="banner" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
 
 # Mohammed Nour Moussa
 
