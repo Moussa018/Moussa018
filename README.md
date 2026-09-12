@@ -1,13 +1,3 @@
-<div align="center">
-  <sub> Backend Engineer &nbsp;|&nbsp; AI Tinkerer</sub>
-  <br/><br/>
-  <img src="hailuo-2_3_pixel_art_beach_scene_at_golden_hour_cozy_developer_relaxing_in_a_hammock_with_a-0-ezgif.com-optimize.gif" alt="banner" width="100%"/>
-</div>
-
-<br/>
-
-<div align="center">
-
 # Mohammed Nour Moussa
 
 software engineering student @ ENSIAS, messing around with AI on the side
@@ -16,7 +6,14 @@ software engineering student @ ENSIAS, messing around with AI on the side
 [![Location](https://img.shields.io/badge/Location-Casablanca%2FRabat-333333?style=flat-square&logo=googlemaps&logoColor=white)](#)
 
 </div>
+<div align="center">
+  <br/><br/>
+  <img src="hailuo-2_3_pixel_art_beach_scene_at_golden_hour_cozy_developer_relaxing_in_a_hammock_with_a-0-ezgif.com-optimize.gif" alt="banner" width="100%"/>
+</div>
 
+<br/>
+
+<div align="center">
 <br/>
 
 I build backend stuff that (mostly) doesn't crash, and poke at RAG pipelines and fine-tuning when I want to feel smart.
