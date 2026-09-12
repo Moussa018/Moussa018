@@ -19,9 +19,15 @@ I build backend stuff that (mostly) doesn't crash, and poke at RAG pipelines and
 ## Stack
 
 <div align="center">
+
 <img src="https://skillicons.dev/icons?i=java,py,c,cpp,spring,fastapi,pytorch,tensorflow&theme=dark" height="45"/>
 <br/><br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" height="45"/>
+<br/><br/>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,kafka,terraform&theme=dark" height="45"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,linux,bash&theme=dark" height="45"/>
+
 </div>
 
 <br/>
