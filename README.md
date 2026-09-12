@@ -53,4 +53,3 @@ I build backend stuff that (mostly) doesn't crash, and poke at RAG pipelines and
 <br/>
 
 <div align="center">
-<
