@@ -18,7 +18,6 @@ I build backend stuff that (mostly) doesn't crash, and poke at RAG pipelines and
 
 ## Stack
 
-## Stack
 
 <div align="center">
 
@@ -26,19 +25,16 @@ I build backend stuff that (mostly) doesn't crash, and poke at RAG pipelines and
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=java,py,c,cpp,spring,fastapi,pytorch,tensorflow&theme=dark" height="45"/>
 
-<br/><br/>
 
 **Databases**
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" height="45"/>
 
-<br/><br/>
 
 **Infra & Cloud**
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,kafka,terraform&theme=dark" height="45"/>
 
-<br/><br/>
 
 **Tools**
 <br/><br/>
