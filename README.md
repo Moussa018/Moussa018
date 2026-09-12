@@ -34,12 +34,6 @@ I build backend stuff that (mostly) doesn't crash, and poke at RAG pipelines and
 **Infra & Cloud**
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,kafka,terraform&theme=dark" height="45"/>
-
-
-**Tools**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode,postman&theme=dark" height="45"/>
-
 </div>
 
 <br/>
