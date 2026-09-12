@@ -1,3 +1,5 @@
+<div align="center">
+
 # Mohammed Nour Moussa
 
 software engineering student @ ENSIAS, messing around with AI on the side
@@ -5,15 +7,12 @@ software engineering student @ ENSIAS, messing around with AI on the side
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammed_Nour_Moussa-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-nour-moussa-425735303/)
 [![Location](https://img.shields.io/badge/Location-Casablanca%2FRabat-333333?style=flat-square&logo=googlemaps&logoColor=white)](#)
 
-</div>
-<div align="center">
-  <br/><br/>
-  <img src="hailuo-2_3_pixel_art_beach_scene_at_golden_hour_cozy_developer_relaxing_in_a_hammock_with_a-0-ezgif.com-optimize.gif" alt="banner" width="100%"/>
+<br/><br/>
+
+<img src="hailuo-2_3_pixel_art_beach_scene_at_golden_hour_cozy_developer_relaxing_in_a_hammock_with_a-0-ezgif.com-optimize.gif" alt="banner" width="100%"/>
+
 </div>
 
-<br/>
-
-<div align="center">
 <br/>
 
 I build backend stuff that (mostly) doesn't crash, and poke at RAG pipelines and fine-tuning when I want to feel smart.
@@ -39,5 +38,4 @@ I build backend stuff that (mostly) doesn't crash, and poke at RAG pipelines and
 <br/>
 
 <div align="center">
-<sub>Just chilling</sub>
-</div>
+<
