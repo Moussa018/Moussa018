@@ -12,7 +12,7 @@ software engineering student @ ENSIAS, messing around with AI on the side
 I build backend stuff, and poke at RAG pipelines and fine-tuning when I want to feel smart.
 
 <br/>
-<img src="hailuo-2_3_pixel_art_beach_scene_at_golden_hour_cozy_developer_relaxing_in_a_hammock_with_a-0-ezgif.com-optimize.gif" alt="banner" width="100%"/>
+<img src="banner_avatar_state.gif" alt="banner" width="100%"/>
 
 </div>
 
