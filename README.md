@@ -11,11 +11,6 @@ software engineering student @ ENSIAS, messing around with AI on the side
 
 I build backend stuff, and poke at RAG pipelines and fine-tuning when I want to feel smart.
 
-<br/>
-<img src="banner_avatar_state.gif" alt="banner" width="100%"/>
-
-</div>
-
 ## Stack
 
 
