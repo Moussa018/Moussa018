@@ -18,7 +18,7 @@ I build backend stuff, and poke at RAG pipelines and fine-tuning when I want to 
 
 **Languages & Frameworks**
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=java,py,c,cpp,spring,fastapi,pytorch,tensorflow&theme=dark" height="45"/>
+<img src="https://skillicons.dev/icons?i=java,py,c,spring,fastapi,pytorch,tensorflow&theme=dark" height="45"/>
 
 
 **Databases**
