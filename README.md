@@ -23,7 +23,7 @@ I build backend stuff, and poke at RAG pipelines and fine-tuning when I want to 
 
 **Databases**
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" height="45"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis&theme=dark" height="45"/>
 
 
 **Infra & Cloud**
